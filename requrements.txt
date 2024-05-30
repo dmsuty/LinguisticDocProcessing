@@ -1,0 +1,5 @@
+pandas
+aiohttp
+bs4
+nltk
+pymorphy2
